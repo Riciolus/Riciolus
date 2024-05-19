@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Riciolus
-- 👀 I’m interested in Software Developer
+- 👀 I have a girlfriend, her name is Javascript
 
 
