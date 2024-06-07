@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Riciolus
-- 👀 Riciolus is the better version of Ridiculous
+Riciolus is the better version of Ridiculous
 
