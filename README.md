@@ -1,6 +1,6 @@
 <div align="center">  
   
-<img align="center" src="/kuchiki-byakuya-bleach-thumb-MoeWalls.jpg" alt="Banner">
+<img align="center" src="/autumn-shrine-anime-girl-desktop-wallpaper-4k.jpg" alt="Banner">
 
 Riciolus is the better version of Ridiculous
 
