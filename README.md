@@ -24,4 +24,6 @@
   &nbsp;
 
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%" />
+  
+  <img align="right" src="https://wakatime.com/share/@f84ee2de-92d7-4a07-82fd-e9fc899a8693/8ff3f277-fb56-4218-8970-92aa0547a6f0.svg" width="400"/>
 </div>
