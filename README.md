@@ -12,7 +12,7 @@
   </kbd>
 
   
-  Riciolus is the better version of Ridiculous
+  Riciolus is the better version of Ridiculous. 
 
   <div align="left" style="margin-top: 20px">
     Currently? Probably juggling a few projects, maybe making an app, maybe just
